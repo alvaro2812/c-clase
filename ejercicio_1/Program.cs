@@ -6,7 +6,9 @@ namespace ejercicio_1
     {
 
 
-
+        //crea un programa que lea numeros introducidos por el usuario y que posteriormente sume los impares y multiplique los pares
+        
+        //crearemos un metodo que lo que hara es leer la entrada del usuario y retornara un array creado por el usuario
         public static int[] entrada(){
 
         //ZONA DEFINICIÓN DE VARIABLES////// 
@@ -77,7 +79,10 @@ namespace ejercicio_1
          //FIN DEFINICIÓN DE VARIABLES////// 
         
         
+         //crearemos un bucle for que se recorrera desde i=0 hasta tabla.length, es decir desde 0 hasta las posiciones ocupadas en la tabla 
             for(int i=0;i<tabla.Length;i++){
+                
+                //en caso de que el numero al hacerle un mod nos retorne un valor diferente de 0 lo sumara , es decir 
                 if(tabla[i] % 2 != 0 ){
                     suma=suma+tabla[i];
                   
