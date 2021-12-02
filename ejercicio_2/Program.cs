@@ -8,7 +8,7 @@ namespace ejercicio_2
 {
     class Program
     {
-        
+        //declararemos una funcion como string que nos retornara los espacios de a insertar
         public static String contar_espacios(int espacio){
 
             switch(espacio){
@@ -85,10 +85,9 @@ namespace ejercicio_2
 
                     // en caso de que no se cumpla solo pondra el | al principio
                     else if(tabla[exterior,interior] != 0){
-
-                        Console.Write("|"+tabla[exterior,interior]+contar_espacios(espacio));
-                      
+                        Console.Write("|"+tabla[exterior,interior]+contar_espacios(espacio));  
                     }
+                    // en caso de que no se cumpla nada solo pondra el | y el  00 al principio
                     else{
 
                         Console.Write("|"+"00"+contar_espacios(2));
