@@ -1,0 +1,16 @@
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/bin/Debug/net5.0/ejercicio_4
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/bin/Debug/net5.0/ejercicio_4.deps.json
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/bin/Debug/net5.0/ejercicio_4.runtimeconfig.json
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/bin/Debug/net5.0/ejercicio_4.runtimeconfig.dev.json
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/bin/Debug/net5.0/ejercicio_4.dll
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/bin/Debug/net5.0/ref/ejercicio_4.dll
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/bin/Debug/net5.0/ejercicio_4.pdb
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ejercicio_4.csproj.AssemblyReference.cache
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ejercicio_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ejercicio_4.AssemblyInfoInputs.cache
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ejercicio_4.AssemblyInfo.cs
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ejercicio_4.csproj.CoreCompileInputs.cache
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ejercicio_4.dll
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ref/ejercicio_4.dll
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ejercicio_4.pdb
+/home/alvaro/vscode/ejercicios/conversiones/ejercicio_4/obj/Debug/net5.0/ejercicio_4.genruntimeconfig.cache
