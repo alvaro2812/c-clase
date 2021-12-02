@@ -71,6 +71,7 @@ namespace ejercicio_1
         }
 
 
+       //crearemos un metodo para que nos retorne la multiplicación y suma
 
         public static void multiplicar_y_sumar(int[] tabla){
         //ZONA DEFINICIÓN DE VARIABLES////// 
@@ -82,23 +83,28 @@ namespace ejercicio_1
          //crearemos un bucle for que se recorrera desde i=0 hasta tabla.length, es decir desde 0 hasta las posiciones ocupadas en la tabla 
             for(int i=0;i<tabla.Length;i++){
                 
-                //en caso de que el numero al hacerle un mod nos retorne un valor diferente de 0 lo sumara , es decir 
+                //en caso de que el numero al hacerle un mod nos retorne un valor diferente de 0 lo sumara , es decir que en caso de que sea impar
+                // sumara el valor de la tabla[i]
                 if(tabla[i] % 2 != 0 ){
                     suma=suma+tabla[i];
                   
 
                 }
+                 //en caso de que el numero al hacerle un mod nos retorne un valor igual  a 0 lo multiplicara , es decir que en caso de que sea par
+                // multiplicara el valor de la tabla[i] 
                 else if(tabla[i] % 2 == 0){
                     multi=multi*tabla[i];
                 }
 
             }
+            //escribiremo las salida
             Console.WriteLine($"la suma de  los numeros impares es {suma} y la multiplicación de los pares es {multi}");
         }
         static void Main(string[] args)
         {
-
+            //crearemos un nuevo array usando el metodo entrada();
             int[] salida = entrada();
+            //llamaremos al metodo multiplicar_y_sumar() pasandole como parametro salida
             multiplicar_y_sumar(salida);
 
           
